@@ -1,4 +1,4 @@
 node-modules/
 *.txt
 *.ts
-!sample.ts
+!sample.ts 

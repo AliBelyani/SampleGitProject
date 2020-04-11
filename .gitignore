@@ -1,0 +1,5 @@
+node-modules/
+*.txt
+*.ts
+!sample.ts
+js/
